@@ -1,4 +1,4 @@
 # NewOne-demo
 This is my first repo
 <br>
-Author- Digbijaya Swain
+Author- Digbijaya Singh
